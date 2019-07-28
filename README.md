@@ -7,7 +7,7 @@
 ##### You need couple of Assets from Unity Asset Store(https://assetstore.unity.com/) and install Unity from Unity(https://unity.com/).
 ##### An oculus setting is required for the construction of the project.
 
-### Prerequisites
+## Prerequisites
 ##### We have imported several assetes for project production. See the list below.
 - 3dizart Books Pack
 - Chest of drawers
